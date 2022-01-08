@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+
+    justify-content: center;
+
+}
+.block{
+
+
+    border: solid 2px red;
+    display: flex;
+}
